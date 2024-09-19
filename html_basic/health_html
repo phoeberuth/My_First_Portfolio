@@ -22,7 +22,19 @@
 
         </nav>
     </header>
-    <main></main>
+    <main>
+        <!-- our Health records section -->
+        <section>
+            <h1>Health record platform </h1>
+            <div>
+                <img src="/image/health_records.jpg" alt="health records ">
+                <p>keeping patient's record safe</p>
+                <p>feel safe and secure with us</p>
+                <button>Submit</button>
+            </div>
+        </section>
+
+    </main>
     <footer></footer>
 </body>
 
